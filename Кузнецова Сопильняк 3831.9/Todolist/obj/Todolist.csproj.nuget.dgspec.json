@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj": {}
+    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Кузнецова Сопильняк 3831.9\\Todolist\\Todolist.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj": {
+    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Кузнецова Сопильняк 3831.9\\Todolist\\Todolist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj",
+        "projectUniqueName": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Кузнецова Сопильняк 3831.9\\Todolist\\Todolist.csproj",
         "projectName": "Todolist",
-        "projectPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj",
+        "projectPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Кузнецова Сопильняк 3831.9\\Todolist\\Todolist.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\obj\\",
+        "outputPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Кузнецова Сопильняк 3831.9\\Todolist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
