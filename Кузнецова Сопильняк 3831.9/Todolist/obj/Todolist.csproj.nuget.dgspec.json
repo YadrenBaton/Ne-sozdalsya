@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Я\\Гиторлова\\RKIS-2025-2026\\Todolist\\Todolist.csproj": {}
+    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Я\\Гиторлова\\RKIS-2025-2026\\Todolist\\Todolist.csproj": {
+    "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Я\\Гиторлова\\RKIS-2025-2026\\Todolist\\Todolist.csproj",
+        "projectUniqueName": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj",
         "projectName": "Todolist",
-        "projectPath": "C:\\Users\\Я\\Гиторлова\\RKIS-2025-2026\\Todolist\\Todolist.csproj",
+        "projectPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\Todolist.csproj",
         "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Я\\Гиторлова\\RKIS-2025-2026\\Todolist\\obj\\",
+        "outputPath": "D:\\Users\\Я\\Documents\\GitHub\\-----------\\Ne-sozdalsya-1\\Todolist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
